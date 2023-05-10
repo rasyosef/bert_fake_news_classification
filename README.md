@@ -1,2 +1,2 @@
 # bert_fake_news_classification
-A Fine-Tuned BERT (Bidirectional Encoder Representations from Transformers) model that detects (classifies) fake news articles. Used Kaggle's `Fake News Detection DataSet_English` ([link](https://www.kaggle.com/datasets/sadikaljarif/fake-news-detection-dataset-english))to fine tune the model.
+A Fine-Tuned BERT (Bidirectional Encoder Representations from Transformers) model that detects (classifies) fake news articles. Used Kaggle's `Fake News Detection DataSet_English` [dataset](https://www.kaggle.com/datasets/sadikaljarif/fake-news-detection-dataset-english) to fine tune the model.
